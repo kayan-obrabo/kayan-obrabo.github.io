@@ -1,0 +1,52 @@
+
+ body{
+    background-color:  lightblue ;
+    max-width: 350px;
+    display: flex;
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-top: 5%;
+    font-family: 'Outfit', serif;
+
+ }
+
+ .corpo{
+   background-color: white;
+   display: flex;
+   flex-wrap: wrap;
+   border-radius: 25px;
+   gap: 30px;
+   
+   
+   
+ }
+
+ .qr{
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 25px;   
+    
+ }
+
+ h1{
+   max-width: 300px;
+   display: flex;
+   margin: auto;
+   font-size: 30px;
+   text-align: center;
+   
+ }
+  p{
+   display: flex;
+   font-size: 20px;
+   max-width: 300px;
+   margin: auto;
+   margin-bottom: 20px;
+   color: rgba(0, 0, 0, 0.591);
+   text-align: center;
+
+  }
+
+
